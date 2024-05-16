@@ -1,9 +1,3 @@
 scikit-learn
-bs4
-nltk
-fuzzywuzzy
-dask
-gensim
-tqdm
-distance
+streamlit
 
